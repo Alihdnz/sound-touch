@@ -127,22 +127,22 @@ const soundsData = {
         {
             "id": 1,
             "name": "funeral",
-            "soundUrl": "/sounds/funeral.mp3"
+            "soundUrl": "/sound-touch/sounds/funeral.mp3"
         },
         {
             "id": 2,
             "name": "infantil",
-            "soundUrl": "/sounds/infantil.mp3"
+            "soundUrl": "/sound-touch/sounds/infantil.mp3"
         },
         {
             "id": 3,
             "name": "floresta",
-            "soundUrl": "/sounds/floresta.mp3"
+            "soundUrl": "/sound-touch/sounds/floresta.mp3"
         },
         {
             "id": 4,
             "name": "anjos",
-            "soundUrl": "/sounds/anjos.mp3"
+            "soundUrl": "/sound-touch/sounds/anjos.mp3"
         }
     ]
 };

@@ -144,7 +144,12 @@ const soundsData = {
             "id": 4,
             "name": "anjos",
             "soundUrl": "/sound-touch/sounds/anjos.mp3"
-        }
+        },
+        {
+            "id":5,
+            "name": "fita",
+            "soundUrl": "/sound-touch/sounds/fita.mp3"
+          }
     ]
 };
 
